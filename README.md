@@ -1,6 +1,6 @@
 - ☕ professional preference: Ruby, Rails, React
-- 🎤 currently fascinated by voice control software (i.e, _coding with your voice_)
-- 💎 also interested in Crystal, Zig, Rust, MRuby
+- 🎤 currently fascinated by speech control software (i.e, _coding with your voice_)
+- 💎 also interested in Crystal, Zig, MRuby
 
 <!--
 **jethrodaniel/jethrodaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
