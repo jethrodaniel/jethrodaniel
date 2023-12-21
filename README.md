@@ -1,18 +1,25 @@
+```
+ ____________________________
+< be excellent to each other >
+ ----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 - ☕ professional preference: Ruby, Rails, React
 - 🎤 currently fascinated by speech control software (i.e, _coding with your voice_)
-- 💎 also interested in [Zig](https://ziglang.org/) and [mruby](https://mruby.org/)
+- ⚡ also interested in [Zig](https://ziglang.org/) and [mruby](https://mruby.org/)
 
-<!--
-**jethrodaniel/jethrodaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Note
 
-Here are some ideas to get you started:
+I'm (slowly) moving from Github to open-source solutions for git hosting. Github's only for:
+- collaboration on other Github hosted projects
+- free MacOS/Windows CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+- Gitlab: https://gitlab.com/jethrodaniel
+- Website: https://mdelk.dev
