@@ -10,16 +10,17 @@
 ```
 
 - ☕ professional preference: Ruby, Rails, React
-- 🎤 currently fascinated by speech control software (i.e, _coding with your voice_)
+- 🎤 interested in speech control as an accessibility device
 - ⚡ also interested in [Zig](https://ziglang.org/) and [mruby](https://mruby.org/)
 
-## Note
+<!-- ## Note -->
 
-I'm (slowly) moving from Github to open-source solutions for git hosting. Github's only for:
-- collaboration on other Github hosted projects
-- free MacOS/Windows CI
+<!-- I'm (slowly) moving from Github to open-source solutions for git hosting. Github's only for: -->
+<!-- - collaboration on other Github hosted projects -->
+<!-- - free MacOS/Windows CI -->
+<!-- - sponsors -->
 
-## Links
+<!-- ## Links -->
 
-- Gitlab: https://gitlab.com/jethrodaniel
-- Website: https://mdelk.dev
+<!-- - Gitlab: https://gitlab.com/jethrodaniel -->
+<!-- - Website: https://mdelk.dev -->
