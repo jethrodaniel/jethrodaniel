@@ -11,4 +11,4 @@
 
 - ☕ professional preference: Ruby on Rails
 - 🎤 interested in speech control as an accessibility device
-- ⚡ also interested in [zig](https://ziglang.org/), [mruby](https://mruby.org/), and [elixir](https://elixir-lang.org/).
+- ⚡ also interested in [zig](https://ziglang.org/), [mruby](https://mruby.org/), [crystal](https://crystal-lang.org/), and [elixir](https://elixir-lang.org/).
